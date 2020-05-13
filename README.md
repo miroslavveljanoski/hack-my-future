@@ -18,6 +18,10 @@
 ## All of My Projects
 
 ### Working with Code
+
+* [Class exercises](https://github.com/miroslavveljanoski/First-class)
+
+#### Home Assignments
 * [Markdown Home Page](https://badgerbadgerbadger.com)
 * [My bio on the class repo](https://badgerbadgerbadger.com)
 * [Hack My Future](./README.md)
