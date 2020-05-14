@@ -21,9 +21,9 @@
 
 * [Class exercises](https://github.com/miroslavveljanoski/First-class)
 
-#### Home Assignments
-* [Markdown Home Page](https://badgerbadgerbadger.com)
-* [My bio on the class repo](https://badgerbadgerbadger.com)
+> Home Assignments
+* [Markdown Home Page](https://miroslavveljanoski.github.io/Markdown-Home-Page/)
+* [My bio on the class repo](https://github.com/miroslavveljanoski/class-9-10/blob/master/student-bios/miroslav.md)
 * [Hack My Future](./README.md)
 
 ### Incremental Development
